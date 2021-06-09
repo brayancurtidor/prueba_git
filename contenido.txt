@@ -1,1 +1,2 @@
 Hola soy nuevo en git
+estoy modificando el archivo .txt
